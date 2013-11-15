@@ -1,0 +1,1620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"src"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"topbar-bg",
+				"topbar-bg-color"
+			],
+			[
+				"service",
+				"service-details"
+			],
+			[
+				"jq",
+				"jq.click	jq.click"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"outer",
+				"outerHeight"
+			],
+			[
+				"web",
+				"web-details"
+			],
+			[
+				"He",
+				"Helvetica"
+			],
+			[
+				"jql",
+				"jq.click	jq.click"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"j",
+				"jq.ready	jq.ready"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"prime",
+				"prime-msg-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-face"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"accordion",
+				"accordionHeaders"
+			],
+			[
+				"accord",
+				"accordionHeaders"
+			],
+			[
+				"acco",
+				"accordionHeaders"
+			],
+			[
+				"blue",
+				"blue"
+			],
+			[
+				"rel",
+				"releaseBombTwo"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"bomb",
+				"bombOne"
+			],
+			[
+				"release",
+				"releaseBombOne"
+			],
+			[
+				"snake",
+				"snakeTop"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"v",
+				"va	vertical-align"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"e",
+				"echo	<?php echo … ?>"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"paddle",
+				"paddle"
+			],
+			[
+				"log",
+				"logCordinates"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"register",
+				"registerEventHandler"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"handler",
+				"handler"
+			],
+			[
+				"d",
+				"doc-ready	doc-ready"
+			],
+			[
+				"doc",
+				"doc-ready	j-ready"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ra",
+				"border-radius"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"square",
+				"square-space"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"tr",
+				"trsp	transition-property: ${1:prop};"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"f",
+				"f	font"
+			],
+			[
+				"va",
+				"va	vertical-align: ${1:top};"
+			],
+			[
+				"bg",
+				"bg	background: #${1:000};"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"t",
+				"trsp	transition-property: ${1:prop};"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"sha",
+				"tsh-ra	text-shadow: ${1:h} ${2:v} ${3:blur} rgba(${4:0}, ${5:0}, ${6:0}, .${7:5});"
+			],
+			[
+				"lin",
+				"have_link"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"retur",
+				"return_to"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"desc",
+				"desc	desc"
+			],
+			[
+				"signin",
+				"signin_path"
+			],
+			[
+				"fil",
+				"fill_in"
+			],
+			[
+				"click",
+				"click_link"
+			],
+			[
+				"sign",
+				"signin_path"
+			],
+			[
+				"visi",
+				"visit"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"reme",
+				"remember_token"
+			],
+			[
+				"min",
+				"minimum"
+			],
+			[
+				"i",
+				"it"
+			],
+			[
+				"invalid",
+				"invalid_user"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"is",
+				"is"
+			],
+			[
+				"valid",
+				"valid	valid"
+			],
+			[
+				"des",
+				"desc	desc"
+			],
+			[
+				"sh",
+				"shou-rp	shou-rp"
+			],
+			[
+				"shou",
+				"shou-rp	shou-rp"
+			],
+			[
+				"have",
+				"have-content	have-content"
+			],
+			[
+				"star",
+				"start-rspec	start-rspec"
+			],
+			[
+				"op",
+				"op:ie	opacity:ie"
+			],
+			[
+				"br",
+				"bdrz	border-radius"
+			],
+			[
+				"gra",
+				"gravatar_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1571,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"syntax jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"synta jad",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"synta html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synta java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntajavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"synle",
+				"Set Syntax: LESS"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"syn j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipp",
+				"Snippet: html5"
+			],
+			[
+				"sni",
+				"Snippet: image_submit_tag"
+			],
+			[
+				"syn less",
+				"Set Syntax: LESS"
+			],
+			[
+				"less",
+				"Snippet: less-iteration"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn",
+				"Set Syntax: Sass"
+			],
+			[
+				"synta jscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synta ja",
+				"Set Syntax: Java"
+			],
+			[
+				"synta sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"prefer",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"prefere",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"user ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"syntax rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntarub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"snippet",
+				"Snippet: directory()"
+			],
+			[
+				"Snippet: have",
+				"Snippet: have-content"
+			],
+			[
+				"stackoverflow: ",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"stackov",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				":h",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"snippal",
+				"Snippet: aliq"
+			],
+			[
+				":Q",
+				"Snippet: aliq"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":help",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"synsas",
+				"Set Syntax: Sass"
+			],
+			[
+				"new",
+				"Preferences: Browse Packages"
+			],
+			[
+				"task newd",
+				"Tasks: New document"
+			],
+			[
+				"tasknew",
+				"Tasks: New"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if … end"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"n",
+				"File: New View into File"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"open ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"add folder",
+				"Project: Add Folder"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 328.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chaungo/Sites/343/a7.wireframes/css/main.css",
+		"/Users/chaungo/Sites/343/a7.wireframes/a7.sublime-project",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/chaungo/Sites/Hamo/js/app.js",
+		"/Users/chaungo/Sites/343/a6.jQuery/js/app.js",
+		"/Users/chaungo/Sites/343/a6.jQuery/index.html",
+		"/Users/chaungo/Sites/Hamo/sass/_variables.scss",
+		"/Users/chaungo/Sites/Hikari/package.json",
+		"/Users/chaungo/Sites/Hikari/public/stylesheets/bootstrap.min.css",
+		"/Users/chaungo/Sites/Hikari/public/stylesheets/style.styl",
+		"/Users/chaungo/Sites/Hamo/protected/config/main.php",
+		"/Users/chaungo/Sites/Hamo/sass/_module.scss",
+		"/Users/chaungo/Sites/Hamo/.sass-cache/7d7f6a31d172bae290ebc8332d74acafa3fe9c2a/foundation.scssc",
+		"/Users/chaungo/Sites/343/a6.jQuery/css/app.css",
+		"/Users/chaungo/Sites/Hamo/protected/views/site/index.php",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/~/Users/chaungo/Sites/Hamo/sass/_base.scss",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/~/Users/chaungo/Sites/Hamo/sass/~/Users/chaungo/Sites/Hamo/sass/_base.scss",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/chaungo/hamo.sublime-workspace",
+		"/Users/chaungo/Sites/Hamo/protected/views/layouts/main.php",
+		"/Users/chaungo/Sites/Hamo/sass/_settings.scss",
+		"/Users/chaungo/Sites/Hamo/sass/_base.scss",
+		"/Users/chaungo/Sites/Hamo/sass/_layout.scss",
+		"/Users/chaungo/Sites/Hamo/sass/_state.scss",
+		"/Users/chaungo/Sites/343/rebound-demo/rebound_demo.html",
+		"/Users/chaungo/Sites/343/iSchool/index.html",
+		"/Users/chaungo/Sites/343/iSchool/css/bootstrap.min.css",
+		"/Users/chaungo/Sites/Hamo/js/foundation/foundation.js",
+		"/Users/chaungo/Sites/Hamo/sass/app.scss",
+		"/Users/chaungo/Sites/Hamo/config.rb",
+		"/Users/chaungo/Sites/343/bootstrap-demo/index.html",
+		"/Users/chaungo/Desktop/Hatahata/public/stylesheets/style.styl",
+		"/Users/chaungo/Desktop/Hatahata/package.json",
+		"/Users/chaungo/Sites/Hatahata/views/layout.jade",
+		"/Users/chaungo/Sites/Hatahata/app.js",
+		"/Users/chaungo/Sites/Hatahata/views/index.jade",
+		"/Users/chaungo/Sites/343/a6.jQuery/css/style.css",
+		"/css/style.css",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/jQuery/jq.click.sublime-snippet",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/jQuery/$.sumblime-snippet",
+		"/Users/chaungo/Sites/Hamo/app.scss",
+		"/Users/chaungo/Sites/Hamo/_state.scss",
+		"/Users/chaungo/Sites/Hamo/_module.scss",
+		"/Users/chaungo/Sites/Hamo/_layout.scss",
+		"/Users/chaungo/Sites/Hamo/sass/ie.scss",
+		"/Users/chaungo/Sites/Hamo/protected/controllers/SiteController.php",
+		"/Users/chaungo/Sites/Hamo/.DS_Store",
+		"/Users/chaungo/Sites/Hamo/.htaccess",
+		"/Users/chaungo/Sites/Hamo/index.php",
+		"/Users/chaungo/Sites/Hamo/humans.txt",
+		"/Users/chaungo/Sites/Hamo/MIT-LICENSE.txt",
+		"/Users/chaungo/Sites/Hamo/robots.txt",
+		"/Users/chaungo/Sites/WP/wp-config-sample.php",
+		"/Users/chaungo/Sites/WP/wp-admin/setup-config.php",
+		"/Users/chaungo/Sites/WP/wp-includes/js/tinymce/plugins/spellchecker/config.php",
+		"/Users/chaungo/Sites/gindara/app/views/sessions/new.html.haml",
+		"/Users/chaungo/Sites/gindara/app/views/static_pages/home.html.haml",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/jQuery/jq.ready.sublime-snippet",
+		"/Users/chaungo/Sites/blah/protected/config/main.php",
+		"/Users/chaungo/Sites/blah/protected/controllers/SiteController.php",
+		"/Users/chaungo/Sites/blah/protected/views/layouts/main.php",
+		"/Users/chaungo/test.js",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/js/jq-click.sublime-snippet",
+		"/Users/chaungo/Desktop/index.html",
+		"/Users/chaungo/Sites/343/a5.missiles/missiles.html",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/Gist/Default (OSX).sublime-keymap",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/Users/chaungo/Sites/343/snake/snake.html",
+		"/Users/chaungo/Sites/343/incoming/style.css",
+		"/Users/chaungo/Sites/Hamo/.sass-cache/f414cb0fc8549b759391de7a808d7797aaa0329a/module.scssc",
+		"/Users/chaungo/Sites/343/aji/js/handler.js",
+		"/Users/chaungo/Sites/343/aji/js/app.js",
+		"/Users/chaungo/Sites/Hamo/sass/state.scss",
+		"/Users/chaungo/Sites/Hamo/sass/module.scss",
+		"/Users/chaungo/Sites/Hamo/sass/layout.scss",
+		"/Users/chaungo/Sites/Hamo/sass/settings.scss",
+		"/Users/chaungo/Sites/Hamo/state.scss",
+		"/Users/chaungo/Sites/343/aji/css/style.css",
+		"/Users/chaungo/Sites/343/aji/index.html",
+		"/Users/chaungo/Sites/343/aji/handler.js",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/chaungo/Sites/Hamo/protected/config/test.php",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/js/dom-ready.sublime-snippet",
+		"/Users/chaungo/Sites/343/aji/style.less",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/doc-ready.sublime-snippet",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/html5.sublime-snippet",
+		"/Users/chaungo/Sites/Hamo/sass/zpr.scss",
+		"/Users/chaungo/Sites/Hamo/css/foundation.css",
+		"/Users/chaungo/Sites/343/simple-js-game/index.html",
+		"/Users/chaungo/Sites/343/simple-js-game/script.js",
+		"/Users/chaungo/script.js",
+		"/Users/chaungo/Sites/Hamo/Gemfile",
+		"/Users/chaungo/Sites/343/a4.mercedes-benz-cla-45-amg/css/layout.less",
+		"/Users/chaungo/Sites/343/a4.mercedes-benz-cla-45-amg/css/variables.less",
+		"/Users/chaungo/Sites/343/a4.mercedes-benz-cla-45-amg/css/base.less",
+		"/Users/chaungo/Sites/Gindara/l.",
+		"/Users/chaungo/Sites/343/a4.mercedes-benz-cla-45-amg/css/style.less",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/css/module.less",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/css/base.less",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/state.less",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/style.less",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/module.less",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/layout.less",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/css",
+		"/Users/chaungo/Sites/343/demo-2/index.html",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/index.html",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/less-1.4.1.min.js",
+		"/Users/chaungo/Sites/343/a3.geometrics/index.html",
+		"/Users/chaungo/Sites/343/a3.geometrics/style.less",
+		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/less-iteration.sublime-snippet",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/state.css",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/base.css",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/layout.css",
+		"/Users/chaungo/Sites/343/a3.mercedes-benz-cla-45-amg/module.css",
+		"/Users/chaungo/Sites/343/demo-3/index.html",
+		"/Users/chaungo/Sites/343/demo-3/style.less",
+		"/Users/chaungo/Sites/343/demo-2/style.less",
+		"/Users/chaungo/Sites/343/demo-2/less-1.4.1.min.js",
+		"/Users/chaungo/Sites/Gindara/Gemfile",
+		"/Users/chaungo/Sites/Aji/protected/views/site/index.php",
+		"/Users/chaungo/Sites/Aji/sass/_aji.scss",
+		"/Users/chaungo/Sites/Aji/sass/_color_me_sass.scss",
+		"/Users/chaungo/Sites/Aji/protected/yiic.php",
+		"/Users/chaungo/Sites/Aji/index.php",
+		"/Users/chaungo/Sites/Ankimo/index.html",
+		"/Users/chaungo/Sites/Anago/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lg",
+			"xs-6",
+			"\"></",
+			" {2}+",
+			"stylesheet",
+			" {2}+",
+			"\" {2}+\" / \"\\t\"",
+			"      ",
+			"        ",
+			"    ",
+			"\"",
+			"lar",
+			"class=\"service-details-container\" ",
+			"5",
+			"style=\"background: #fefefe;\"",
+			"trigger",
+			"container",
+			"<li",
+			"li",
+			"min",
+			"    ",
+			"   ",
+			"  ",
+			"   ",
+			"  ",
+			"ne: ",
+			" ",
+			"name",
+			"dude",
+			"=\"\")",
+			",",
+			"  ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"min",
+			"\"",
+			",",
+			"/js",
+			"5",
+			"container",
+			"s=\"sma",
+			"iv class=\"",
+			"class=\"",
+			"\"><",
+			"\">",
+			" class=\"large-12 columns\"",
+			"\"#\"",
+			"<li",
+			"<li>",
+			"topbar",
+			"\">",
+			"<li>",
+			"<li>\n",
+			"li",
+			"></",
+			"trigger",
+			"1px",
+			"outerWidth",
+			"			console.log($open);",
+			"			",
+			".outerHeight()",
+			"			\n",
+			"outerHeight",
+			"consectetur ",
+			"class=",
+			"class=\"",
+			"</p>",
+			"/h1>",
+			"<li>",
+			"li",
+			"></",
+			"<h1>TEST</h1>",
+			"</li",
+			"div",
+			"arge-12",
+			"outerWidth",
+			"innerWidth",
+			"columns",
+			"outerWidth",
+			"arge-4",
+			" columns",
+			"e-12",
+			"12",
+			"rge-12",
+			"s\"}",
+			"}",
+			"~/",
+			"\"context\": \"window\"",
+			"keyboard",
+			"data-",
+			"holder.js/900x500/auto/#777:#7a7a7a/text:First slide",
+			" active",
+			"stylesheet",
+			"padding",
+			"alig",
+			"col-md-offset-1",
+			"d-6",
+			"-lg-4",
+			"col-md-6",
+			"md-6\"",
+			"2>",
+			"col-md-4",
+			"col-md-6",
+			"panel panel",
+			"panel",
+			"col-md-4",
+			"col-sm-12",
+			"col-sm-6",
+			"</div>",
+			"m-12\">",
+			"12\">",
+			"class=\"box col-",
+			"6\">",
+			"md",
+			"col-xs-12",
+			"col-xs-12\"",
+			"col-xs-12",
+			"col-xs",
+			"columns",
+			"arge-12",
+			": ",
+			"100",
+			"ss=\"sma",
+			"s=\"sma",
+			"class=\"",
+			"columns"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"stylesheet",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								980,
+								980
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.js",
+				"js/app.js"
+			],
+			[
+				"settings",
+				"sass/_settings.scss"
+			],
+			[
+				"var",
+				"sass/_variables.scss"
+			],
+			[
+				"stat",
+				"sass/_state.scss"
+			],
+			[
+				"mod",
+				"sass/_module.scss"
+			],
+			[
+				"layou",
+				"sass/_layout.scss"
+			],
+			[
+				"base",
+				"sass/_base.scss"
+			],
+			[
+				"site/inde",
+				"protected/views/site/index.php"
+			],
+			[
+				"layou/ma",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"boot",
+				"public/stylesheets/bootstrap.min.css"
+			],
+			[
+				"f",
+				".sass-cache/7d7f6a31d172bae290ebc8332d74acafa3fe9c2a/foundation.scssc"
+			],
+			[
+				"appjs",
+				"js/app.js"
+			],
+			[
+				"layout",
+				"sass/_layout.scss"
+			],
+			[
+				"siteinde",
+				"protected/views/site/index.php"
+			],
+			[
+				"layout/man",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"main",
+				"protected/config/main.php"
+			],
+			[
+				"sett",
+				"sass/_settings.scss"
+			],
+			[
+				"state",
+				"sass/_state.scss"
+			],
+			[
+				"site/in",
+				"protected/views/site/index.php"
+			],
+			[
+				"layout/main",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"app",
+				"sass/app.scss"
+			],
+			[
+				"site/ind",
+				"protected/views/site/index.php"
+			],
+			[
+				"sitein",
+				"protected/views/site/index.php"
+			],
+			[
+				"layout/ma",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"sate",
+				"sass/_state.scss"
+			],
+			[
+				"lay",
+				"sass/_layout.scss"
+			],
+			[
+				"siteind",
+				"protected/views/site/index.php"
+			],
+			[
+				"layouman",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"_base.scss",
+				"sass/_base.scss"
+			],
+			[
+				"modu",
+				"sass/_module.scss"
+			],
+			[
+				"_layou",
+				"sass/_layout.scss"
+			],
+			[
+				"_base",
+				"sass/_base.scss"
+			],
+			[
+				"conf",
+				"protected/config/main.php"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"js",
+				"js/app.js"
+			],
+			[
+				"promain",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"main.",
+				"protected/config/main.php"
+			],
+			[
+				"base.sc",
+				"sass/_base.scss"
+			],
+			[
+				"wp-con",
+				"wp-admin/setup-config.php"
+			],
+			[
+				"wp-confi",
+				"wp-includes/js/tinymce/plugins/spellchecker/config.php"
+			],
+			[
+				"viewind",
+				"protected/views/site/index.php"
+			],
+			[
+				"confi",
+				"protected/config/main.php"
+			],
+			[
+				"contact",
+				"protected/views/site/contact.php"
+			],
+			[
+				"site",
+				"protected/controllers/SiteController.php"
+			],
+			[
+				"contac",
+				"protected/views/site/contact.php"
+			],
+			[
+				"viewin",
+				"protected/views/site/index.php"
+			],
+			[
+				"layou/",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"mode",
+				"sass/_module.scss"
+			],
+			[
+				"",
+				"snake.html"
+			],
+			[
+				"modul",
+				"sass/_module.scss"
+			],
+			[
+				"appc",
+				"sass/app.scss"
+			],
+			[
+				"state.s",
+				"sass/_state.scss"
+			],
+			[
+				"layoutma",
+				"protected/views/layouts/main.php"
+			],
+			[
+				".mod",
+				".sass-cache/f414cb0fc8549b759391de7a808d7797aaa0329a/module.scssc"
+			],
+			[
+				"layo",
+				"sass/_layout.scss"
+			],
+			[
+				"b",
+				"rebound_demo.html"
+			],
+			[
+				"hanl",
+				"js/handler.js"
+			],
+			[
+				"config/",
+				"protected/config/main.php"
+			],
+			[
+				"layoutmain",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"layoutsmain",
+				"protected/views/layouts/main.php"
+			],
+			[
+				"s",
+				"script.js"
+			],
+			[
+				"va",
+				"css/variables.less"
+			],
+			[
+				"sty",
+				"css/style.less"
+			],
+			[
+				"st",
+				"css/state.less"
+			],
+			[
+				"mo",
+				"css/module.less"
+			],
+			[
+				"la",
+				"css/layout.less"
+			],
+			[
+				"prod",
+				"production.html"
+			],
+			[
+				"gal",
+				"gallery.html"
+			],
+			[
+				"eng",
+				"marketing.html"
+			],
+			[
+				"ab",
+				"about.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"about",
+				"about.html"
+			],
+			[
+				"mark",
+				"marketing.html"
+			],
+			[
+				"gallery.",
+				"gallery.html"
+			],
+			[
+				"bas",
+				"base.css"
+			],
+			[
+				"module",
+				"module.css"
+			],
+			[
+				"new",
+				"app/views/users/new.html.haml"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.scss"
+			],
+			[
+				"todo",
+				"things-to-do.TODO"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"to",
+				"things-to-do.TODO"
+			],
+			[
+				"uti",
+				"spec/support/utilities.rb"
+			],
+			[
+				"util",
+				"spec/support/utilities.rb"
+			],
+			[
+				"usercontrol",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"authen",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"applicacon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applicationhel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"applicationcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"utili",
+				"spec/support/utilities.rb"
+			],
+			[
+				"applica",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"sessionsp",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.haml"
+			],
+			[
+				"sessionhe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"userhel",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"usersnew",
+				"app/views/users/new.html.haml"
+			],
+			[
+				"tod",
+				"things-to-do.TODO"
+			],
+			[
+				"userpages",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"sessionspe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"usersp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"applc",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"css/",
+				"tmp/cache/assets/development/sass/5bcb91ce51eb1f605c9c2c99c41f7d94fa38a231/_alert-boxes.scssc"
+			],
+			[
+				"foundatio",
+				"app/assets/stylesheets/foundation_and_overrides.scss"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"sessionspec",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"userhe",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"userspe",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"sessions",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"session",
+				"config/initializers/session_store.rb"
+			],
+			[
+				"sessspec",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"appcont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"userhelp",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"sessionhelp",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"applicationcontr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"application.h",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"hea",
+				"app/views/layouts/_header.html.haml"
+			],
+			[
+				"show",
+				"app/views/users/show.html.haml"
+			],
+			[
+				"spect",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"layoutapp",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"sessionc",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sessionnew",
+				"app/views/sessions/new.html.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
