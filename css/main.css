@@ -20,9 +20,13 @@ ul.mobile-nav {
 }
 
 ul.mobile-nav li {
-	border-top: 1px dotted #ddd;
+	border-bottom: 1px dotted #ddd;
 	list-style: none;
 	overflow: hidden;
+}
+
+ul.mobile-nav li:first-child {
+	border-top: 1px dotted #ddd;
 }
 
 ul.mobile-nav li h3 {
