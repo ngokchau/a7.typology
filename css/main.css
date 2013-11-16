@@ -2,12 +2,25 @@
    Author's custom styles
    ========================================================================== */
 
-.navbar {
+.navbar, .breadcrumb {
 	border: none;
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
 	margin-bottom: 0;
+}
+
+.xs-menu {
+	background: #f5f5f5;
+	padding: 8px 0;
+}
+
+.navbar-collapse {
+	max-height: none;
+}
+
+img {
+	width: 100%;
 }
 
 div.megaheader h1 {
@@ -17,7 +30,7 @@ div.megaheader h1 {
 
 div.subheader h3 {
 	color: #aaa;
-	margin: 20px 0 200px 12px;
+	margin: 20px 0 200px 0;
 }
 
 ul.mobile-nav {
@@ -35,7 +48,7 @@ ul.mobile-nav li:first-child {
 }
 
 ul.mobile-nav li a {
-	color: #333;
+	color: #666;
 
 	-webkit-transition: 0.2s all linear;
 	-moz-transition: 0.2s all linear;
@@ -45,7 +58,7 @@ ul.mobile-nav li a {
 }
 
 ul.mobile-nav li a:hover {
-	color: #666;
+	color: #a11;
 }
 
 ul.mobile-nav li h3 {
