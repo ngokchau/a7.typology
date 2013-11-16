@@ -17,7 +17,7 @@ div.megaheader h1 {
 
 div.subheader h3 {
 	color: #aaa;
-	margin: 20px 0 250px 13px;
+	margin: 20px 0 200px 12px;
 }
 
 ul.mobile-nav {
@@ -32,6 +32,20 @@ ul.mobile-nav li {
 
 ul.mobile-nav li:first-child {
 	border-top: 1px dotted #ddd;
+}
+
+ul.mobile-nav li a {
+	color: #333;
+
+	-webkit-transition: 0.2s all linear;
+	-moz-transition: 0.2s all linear;
+	-ms-transition: 0.2s all linear;
+	-o-transition: 0.2s all linear;
+	transition: 0.2s all linear;
+}
+
+ul.mobile-nav li a:hover {
+	color: #666;
 }
 
 ul.mobile-nav li h3 {
