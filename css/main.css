@@ -10,8 +10,9 @@
 	margin-bottom: 0;
 }
 
-.megaheader {
+div.megaheader h1 {
 	font-size: 48pt;
+	margin: 20px 0 35px 0;
 }
 
 ul.mobile-nav {
@@ -19,6 +20,7 @@ ul.mobile-nav {
 }
 
 ul.mobile-nav li {
+	border-top: 1px dotted #ddd;
 	list-style: none;
 	overflow: hidden;
 }
