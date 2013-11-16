@@ -10,8 +10,21 @@
 	margin-bottom: 0;
 }
 
-h3 {
+ul.mobile-nav {
+	padding-left: 0;
+}
+
+ul.mobile-nav li {
+	list-style: none;
+	overflow: hidden;
+}
+
+ul.mobile-nav li h3 {
 	margin: 20px 0;
+}
+
+ul.mobile-nav li h3:nth-child(2) {
+	text-align: right;
 }
 
 
