@@ -25,6 +25,10 @@ img {
 	width: 100%;
 }
 
+p, ol li {
+	line-height: 19pt;
+}
+
 div.megaheader h1 {
 	font-size: 48pt;
 	margin: 200px 0 20px 0;
