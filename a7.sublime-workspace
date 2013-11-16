@@ -359,22 +359,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 4310,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 373,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -682,6 +666,7 @@
 	[
 		"/Users/chaungo/Sites/343/a7.typology/a7.sublime-project",
 		"/Users/chaungo/Sites/343/a7.typology/index.html",
+		"/Users/chaungo/Sites/343/a7.typology/css/main.css",
 		"/Users/chaungo/Sites/343/a7.wireframes/css/main.css",
 		"/Users/chaungo/Sites/343/a7.wireframes/a7.sublime-project",
 		"/Users/chaungo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -806,8 +791,7 @@
 		"/Users/chaungo/Sites/Aji/protected/views/site/index.php",
 		"/Users/chaungo/Sites/Aji/sass/_aji.scss",
 		"/Users/chaungo/Sites/Aji/sass/_color_me_sass.scss",
-		"/Users/chaungo/Sites/Aji/protected/yiic.php",
-		"/Users/chaungo/Sites/Aji/index.php"
+		"/Users/chaungo/Sites/Aji/protected/yiic.php"
 	],
 	"find":
 	{
@@ -974,68 +958,18 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 4310,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2637,
-								2637
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 811.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "css/main.css",
-					"settings":
-					{
-						"buffer_size": 373,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								355,
-								351
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -1062,12 +996,19 @@
 				0,
 				2,
 				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.33,
+			0.66,
 			1.0
 		],
 		"rows":
