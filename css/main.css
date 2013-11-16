@@ -25,12 +25,12 @@ img {
 
 div.megaheader h1 {
 	font-size: 48pt;
-	margin: 20px 0;
+	margin: 200px 0 20px 0;
 }
 
 div.subheader h3 {
 	color: #aaa;
-	margin: 20px 0 200px 0;
+	margin: 0 0 20px 0;
 }
 
 ul.mobile-nav {
