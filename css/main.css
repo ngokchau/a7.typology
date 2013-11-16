@@ -20,6 +20,8 @@
 }
 
 img {
+	border-left: 3px solid #a11;
+	margin: 8px 0 15px 0;
 	width: 100%;
 }
 
