@@ -10,9 +10,11 @@
 	margin-bottom: 0;
 }
 
-.xs-menu {
-	background: #f5f5f5;
-	padding: 8px 0;
+.visible-sm .breadcrumb {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-top: 20px;
 }
 
 .navbar-collapse {
@@ -20,9 +22,11 @@
 }
 
 img {
-	border-left: 2px solid #a11;
-	margin: 8px 0 15px 0;
 	width: 100%;
+}
+
+.type-infograph img {
+	margin-top: 20px;
 }
 
 p, ol li {
