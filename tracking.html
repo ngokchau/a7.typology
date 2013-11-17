@@ -80,11 +80,11 @@
 
 		<div class="container">
 			<div class="row">
-				<ol class="breadcrumb col-xs-12 visible-xs ">
+				<ol class="breadcrumb col-xs-12 visible-xs">
 					<li><a href="index.html">Home</a></li>
 					<li class="active">Tracking</li>
 				</ol>
-				<div class="col-sm-12 visible-sm">
+				<div class="col-sm-12 hidden-xs">
 					<ol class="breadcrumb">
 						<li><a href="index.html">Home</a></li>
 						<li class="active">Tracking</li>
@@ -92,8 +92,18 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12">
-					<h1>Tracking</h1>
+				<div class="col-md-4 hidden-xs hidden-sm">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Tracking</h3>
+						</div>
+						<ul class="list-group">
+							<li class="list-group-item"><a href="#details">Details</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-8">
+					<h1 id="details">Tracking</h1>
 					<p>
 						Tracking (or letter-spacing) is the space between groups of characters. This is called the letter-spacing property in CSS.
 					</p>

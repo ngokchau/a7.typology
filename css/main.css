@@ -10,11 +10,11 @@
 	margin-bottom: 0;
 }
 
-.visible-sm .breadcrumb {
+.hidden-xs .breadcrumb {
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
-	margin-top: 20px;
+	margin: 20px 0;
 }
 
 .navbar-collapse {
@@ -30,7 +30,7 @@ img {
 }
 
 p, ol li {
-	line-height: 19pt;
+	line-height: 18.6pt;
 }
 
 div.megaheader h1 {
